@@ -14,7 +14,7 @@ body{
     flex-direction: row;
     width: 100vw;
     height:10vh;
-    background-color: rgb(151, 151, 147);
+    background-color: rgb(238, 238, 238);
     height: 10%;
     width: 100%;
 }
@@ -35,15 +35,15 @@ body{
 .a{
     display: flex;
     height: 100%;
-    width: 30%;
-    background-color: blue;
+    width: 19%;
+    background-color: rgb(238, 238, 238);
     justify-content: space-around;
     align-items: center;
 }
 #logo{
     display: flex;
-    width: 100%;
-    height: 100%;
+    width: 80%;
+    height: 80%;
     border-radius: 100%;
     justify-content: center;
     align-items: center;
@@ -60,25 +60,65 @@ img{
     width: 25%;
     height: 50%;
     background-color: rgb(238, 238, 238);
-    border-radius: 20% ;
+    border-radius: 30px ;
     text-align: center;
-    font-size: small;
+    font-size: 80%;
     justify-content: center;
     align-items: center;
+    transition-duration: 800ms;
+}
+.iec:hover{
+
+    background-color: rgb(26, 25, 25);
+    transition-duration: 800ms;
+    color: aliceblue;
 }
 
 .b{
     display: flex;
     height: 100%;
-    width: 80%;
-    background-color: rgb(183, 0, 255);
+    width: 50%;
+    background-color: rgb(238, 238, 238);
+    justify-content: center;
+    align-items: center;
 }
-.c{
+#buscador{
+    justify-content: center;
+    align-items: center;
+    height: 40%;
+    width: 70%;
+    border-radius: 30px;
+}
+#navbar-pinterest{
+    flex-direction: row;
     display: flex;
     height: 100%;
     width: 30%;
-    background-color: rgb(255, 0, 255);
+    background-color: rgb(238, 238, 238);
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+
 }
+.nav{
+    display: flex;
+    flex-direction:row;
+    width: 20%;
+    height: 50%;
+    background-color: rgb(238, 238, 238);
+    border-radius: 30px ;
+    text-align: center;
+    font-size: 80%;
+    justify-content: center;
+    align-items: center;
+    transition-duration: 800ms;
+}
+.nav:hover{
+    background-color: rgb(26, 25, 25);
+    transition-duration: 800ms;
+    color: aliceblue;
+}
+
 .d{
     display: flex;
     height: 100%;
