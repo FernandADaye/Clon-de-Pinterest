@@ -145,14 +145,30 @@ img{
 }
 #gumball{
     border-radius: 28px;
-    width: 200px;
+    width: 180px;
 
 }
 #spidermeme{
     border-radius: 28px;
-    width: 200px;
-
+    width: 180px;
 }
+#fiebre{
+    border-radius: 28px;
+    width: 180px;
+}
+#batman{
+    border-radius: 28px;
+    width: 180px;
+}
+#paleta{
+    border-radius: 28px;
+    width: 180px;
+}
+#pez{
+    border-radius: 28px;
+    width: 180px;
+}
+
 .card-image2{
     display: flex;
     flex-direction: column;
@@ -161,11 +177,27 @@ img{
 }
 #caja{
     border-radius: 30px;
-    width: 200px;
+    width: 180px;
 }
 #fondos{
     border-radius: 20px;
-    width: 200px;
+    width: 180px;
+}
+#chicas{
+    border-radius: 20px;
+    width: 180px;
+}
+#rana{
+    border-radius: 20px;
+    width: 180px;
+}
+#mamadeg{
+    border-radius: 20px;
+    width: 180px;
+}
+#memeperrotarea{
+    border-radius: 20px;
+    width: 180px;
 }
 .card-image3{
     display: flex;
@@ -175,7 +207,7 @@ img{
 }
 #inglesmeme{
     border-radius: 30px;
-    width: 200px;
+    width: 180px;
 
 }
 
@@ -187,7 +219,7 @@ img{
 }
 #oso{
     border-radius: 20px;
-    width: 200px;
+    width: 180px;
 }
 .card-image5{
     display: flex;
@@ -197,7 +229,7 @@ img{
 }
 #perro{
     border-radius: 30px;
-    width: 200px;
+    width: 180px;
 
 }
 .card-image6{
@@ -208,6 +240,6 @@ img{
 }
 #rata{
     border-radius: 30px;
-    width: 200px;
+    width: 180px;
 
 }
