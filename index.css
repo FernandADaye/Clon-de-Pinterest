@@ -329,6 +329,25 @@ img{
     border-radius: 30px;
     width: 180px;
 }
+#morales{
+    border-radius: 30px;
+    width: 180px;
+}
+#chigat{
+    border-radius: 30px;
+    width: 180px;
+}
+#fondospi{
+    border-radius: 30px;
+    width: 180px;
+}
+#perronar{
+    border-radius: 30px;
+    width: 180px;
+}
+
+
+
 .card-image6{
     display: flex;
     flex-direction: column;
