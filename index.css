@@ -297,6 +297,18 @@ img{
     border-radius: 20px;
     width: 180px;
 }
+#frases{
+    border-radius: 20px;
+    width: 180px;
+}
+#universo{
+    border-radius: 20px;
+    width: 180px;
+}
+#cuervo{
+    border-radius: 20px;
+    width: 180px;
+}
 .card-image5{
     display: flex;
     flex-direction: column;
