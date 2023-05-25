@@ -294,7 +294,7 @@ img{
     border-radius: 20px;
     width: 180px;
 }
-#cuervo{
+#dvf{
     border-radius: 20px;
     width: 180px;
 }
@@ -366,3 +366,72 @@ img{
     border-radius: 30px;
     width: 180px;
 }
+
+@media only screen 
+    and (min-device-width: 530px) 
+    and (max-device-width: 720px){
+        .card-image5{
+            display: none;
+        }
+        .card-image4{
+            display: none;
+        }
+        .card-image6{
+            display: none;
+        }
+        .king{
+            width: 80%;
+        }
+        .a{
+            font-size: small;
+        }
+        .iec{
+            font-size: x-small;
+            width: 100%;
+            height: 20%;
+            margin-right: 10px;
+        }
+        .nav{
+            font-size: x-small;
+            width: 100%;
+            height: 20%;
+            margin-right: 10px;
+        }
+        #finder{
+            width:70% ;
+            height: 30%;
+        }
+}
+@media only screen 
+    and (min-device-width: 720px) 
+    and (max-device-width: 1000px){
+        .card-image6{
+            display: none;
+        }
+        .card-image5{
+            display: none;
+        }
+        .king{
+            width: 80%;
+        }
+        .a{
+            font-size: small;
+        }
+        .iec{
+            font-size: x-small;
+            width: 100%;
+            height: 20%;
+            margin-right: 10px;
+        }
+        .nav{
+            font-size: x-small;
+            width: 100%;
+            height: 20%;
+            margin-right: 10px;
+        }
+        #finder{
+            width:70% ;
+            height: 30%;
+        }
+
+    }
